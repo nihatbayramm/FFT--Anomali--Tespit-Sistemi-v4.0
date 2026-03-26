@@ -83,11 +83,12 @@ sudo hping3 -S -p 80 --flood 127.0.0.1
 
 ***Bu proje eğitim ve siber güvenlik araştırma amaçlı geliştirilmiştir.***
 
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/a0f854b7-f9a9-441d-b9a4-39f9cfb0bfee" />
 
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/4177bbc7-5063-4c5c-bb81-8f13db8fdbfb" />
 
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/556848be-cdad-4361-9ce1-ad40f56ade97" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/241348db-7a98-49e3-ae16-fc60c8ca8d67" />
 
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/fdd1dd0e-2a7b-4efe-80bb-d5949eadc157" />
 
 ### 👨‍💻 Geliştirici
 
