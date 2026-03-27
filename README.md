@@ -91,7 +91,7 @@ sudo hping3 -S -p 80 --flood 127.0.0.1
 
 ***This project was developed for educational and cybersecurity research purposes.***
 
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/a0f854b7-f9a9-441d-b9a4-39f9cfb0bfee" />
+<img width="1538" height="967" alt="image" src="https://github.com/user-attachments/assets/b2668f92-2951-4285-8a99-04b35411ce5f" />
 
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/4177bbc7-5063-4c5c-bb81-8f13db8fdbfb" />
 
